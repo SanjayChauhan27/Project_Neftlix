@@ -13,6 +13,7 @@ Few incosistent and data which was not necessary for analysis has been removed f
 - Weekdays Analysis
 - Movies vs T.V. shows: A comparison based on time 
 - Top Content producing countries for Netflix
+- Conclusion
 
 ### Data visualization plays a key role in this analysis, above listed points briefly visualized in the project.
 
